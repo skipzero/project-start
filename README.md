@@ -1,7 +1,7 @@
-# Noughts and Crosses
-Noughts and Crosses (tic tac toe) with react.js
+# Repo
+our new repo...
 
-## About this game
+## About this repo
 
 generic repo with webpack, eslint, babel n stuff to quickly start new projects without dicking around.
 
