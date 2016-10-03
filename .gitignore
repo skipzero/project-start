@@ -1,0 +1,35 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OSX
+.DS_Store
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Build files
+dist/*
+public/*
+
+# nyc test coverage
+.nyc_output
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Dependency directories
+node_modules
+jspm_packages
+bower_components
+
+# Optional dot files
+.npm
+.env
+.nvmrc
+
+# Optional REPL history
+.node_repl_history
